@@ -1,4 +1,4 @@
-# Gender Equality and Economic Development: Exploratory Data Analysis (EDA)
+# Gender Equality and Economic Development: Exploratory Data Analysis (EDA) using Python
 
 This repository contains a comprehensive exploratory data analysis (EDA) project focused on gender equality and its relationship with socio-economic indicators. Using Python, this analysis uncovers trends, patterns, and disparities in education, labor force participation, health, leadership, and wage equality across the world.
 
